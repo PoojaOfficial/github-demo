@@ -10,7 +10,6 @@ public class Main {
         System.out.println("Value is: "+ b);
 
 
-
         System.out.println("Hello world!");
     }
 }
