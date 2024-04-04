@@ -7,7 +7,7 @@ public class Main {
         int a = 10;
 
         int b = a;
-        System.out.println("Value is: "+ b);
+        System.out.println("Value is: "+ a+b);
 
 
         System.out.println("Hello world!");
